@@ -6,6 +6,6 @@ printf("Enter a value :");
 scanf("%d",&a);
 
 printf("\nThe octal value of a is %o", a);
-printf("\nThe hexadecimal value of a is %x", a);
+printf("\nThe hecidecimal value of a is %x", a);
 return 0;
 }
