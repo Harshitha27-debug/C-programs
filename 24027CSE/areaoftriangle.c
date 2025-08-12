@@ -8,4 +8,5 @@ int main (){
  s=(a+b+c)/2;
  area = sqrt(s*(s-a)*(s-b)*(s-c));
  printf("Area of a triangle is : %d",area);
+ return 0;
 }
